@@ -1,6 +1,6 @@
 # Streampads
 A HTML5 gamepad viewer, meant for showing your controller input on stream.
-#[Try it here](https://rawgit.com/tazaar/streampads/master/index.html)
+#[Try it here](https://popinjayjohn.github.io/streampads/)
 [Currently supported parameters](https://github.com/tazaar/streampads/wiki/Parameters)
 
 Currently only supports (shows) playstation 3 style controllers.
